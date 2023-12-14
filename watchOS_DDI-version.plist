@@ -2,43 +2,19 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>DDIFilename</key>
-	<string>watchOS_DDI.dmg</string>
+	<key>BuildVersion</key>
+	<string>2</string>
 	<key>Platform</key>
 	<string>watchOS</string>
 	<key>ProductBuildVersion</key>
-	<string>15A240d</string>
+	<string>15C65</string>
 	<key>ProjectMetadata</key>
 	<array>
 		<dict>
 			<key>Project</key>
-			<string>CoreDevice</string>
+			<string>XCTest</string>
 			<key>Version</key>
-			<string>348.1</string>
-		</dict>
-		<dict>
-			<key>Project</key>
-			<string>DTDeveloperDiskImageSupport</string>
-			<key>Version</key>
-			<string>14.0.0</string>
-		</dict>
-		<dict>
-			<key>Project</key>
-			<string>DTOCMock</string>
-			<key>Version</key>
-			<string>22001</string>
-		</dict>
-		<dict>
-			<key>Project</key>
-			<string>GPUToolsDevice_DDI</string>
-			<key>Version</key>
-			<string>230.35</string>
-		</dict>
-		<dict>
-			<key>Project</key>
-			<string>JetsamProperties</string>
-			<key>Version</key>
-			<string>1802</string>
+			<string>22516</string>
 		</dict>
 		<dict>
 			<key>Project</key>
@@ -48,9 +24,33 @@
 		</dict>
 		<dict>
 			<key>Project</key>
-			<string>XCTest</string>
+			<string>JetsamProperties</string>
 			<key>Version</key>
-			<string>22189</string>
+			<string>1925.40.19</string>
+		</dict>
+		<dict>
+			<key>Project</key>
+			<string>GPUToolsDevice_DDI</string>
+			<key>Version</key>
+			<string>230.35</string>
+		</dict>
+		<dict>
+			<key>Project</key>
+			<string>DTOCMock</string>
+			<key>Version</key>
+			<string>22001</string>
+		</dict>
+		<dict>
+			<key>Project</key>
+			<string>DTDeveloperDiskImageSupport</string>
+			<key>Version</key>
+			<string>14.0.0</string>
+		</dict>
+		<dict>
+			<key>Project</key>
+			<string>CoreDevice</string>
+			<key>Version</key>
+			<string>355.7.6</string>
 		</dict>
 	</array>
 	<key>Variant</key>
